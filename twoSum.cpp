@@ -1,4 +1,4 @@
-//twosum
+//两个数相加为固定的值twosum
 vector<int> twoSum(vector<int>& nums,int target)
 {
     vector<int> result(2);
