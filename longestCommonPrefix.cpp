@@ -1,3 +1,4 @@
+//最长共有string
 string longestCommonPrefix(vector<string>& strs) {
     string prefix="";
     for(int idx=0;strs.size()>0;prefix+=strs[0][idx],idx++)
