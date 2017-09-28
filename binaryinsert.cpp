@@ -1,4 +1,4 @@
-//改进的插入排序二分查找
+// 改进的插入排序二分查找
 void BinaryInsertSort(vector<int>& array,int n)
 {
     if(n<2)
