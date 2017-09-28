@@ -1,4 +1,4 @@
-//最长链
+//重复的最长链
 int lengthOfLongestSubstring(string s) {
     vector<int> dict(255,-1);
     int start=-1,n=s.size(),maxlen=0;
