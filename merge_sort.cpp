@@ -1,4 +1,4 @@
-//归并排序
+// 归并排序
 void merge(int* A,int p,int q,int r)
 {
     int n1=q-p+1;
