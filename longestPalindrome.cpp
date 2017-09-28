@@ -1,3 +1,4 @@
+//最长回文数
 string longestPalindrome(string s) {
     //check the string length
     if(s.size()<2)
