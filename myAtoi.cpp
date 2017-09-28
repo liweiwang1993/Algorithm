@@ -1,4 +1,4 @@
-//atoi function
+// 字符串转数值atoi function
 int myAtoi(string str) {
     int len=str.size();
     long long res=0;
