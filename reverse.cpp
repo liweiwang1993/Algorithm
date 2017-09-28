@@ -1,4 +1,4 @@
-//reverse the number
+//反转数字reverse the number
 int reverse(int x) {
     long long res=0;
     while(x)
