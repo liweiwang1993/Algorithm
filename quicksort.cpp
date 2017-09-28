@@ -1,4 +1,4 @@
-//快速排序
+// 快速排序
 void quicksort(vector<int>& arr,int left,int right){
     int i,j,temp;
     if (left>right) {
