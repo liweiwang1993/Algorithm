@@ -1,4 +1,4 @@
-//两个排序好的array，找到中位数
+// 两个排序好的array，找到中位数
 double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
     int N1=nums1.size(),N2=nums2.size();
     if(N1<N2) return findMedianSortedArrays(nums2,nums1);
