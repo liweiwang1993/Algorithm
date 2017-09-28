@@ -1,4 +1,4 @@
-//双向冒泡排序
+// 双向冒泡排序
 void doublebubble_sort(vector<int>& a){
     int size=a.size()-1;
     for (int i=0; i<size;) {
