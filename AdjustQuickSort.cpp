@@ -1,4 +1,4 @@
-//快速排序的改进
+//基于中值选择的快速排序的改进
 int GetTheMidNum(vector<int>& a,int low,int high){
     int mid=(low+high)>>1;
     int x1=a[low]>a[high]?low:high;
