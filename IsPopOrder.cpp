@@ -1,4 +1,4 @@
-//是否为pop顺序
+//模拟stack，判断是否为pop顺序
 bool IsPopOrder(vector<int> pushV,vector<int> popV) {
     int sizep=pushV.size();
     bool possible=false;
