@@ -1,4 +1,4 @@
-//是否为二叉排序树
+//判断是否为二叉排序树
 bool VerifySquenceOfBST2(vector<int> sequence,int first,int last){
     if(sequence.size()<=0||last<=0)
         return false;
