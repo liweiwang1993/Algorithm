@@ -1,4 +1,4 @@
-//冒泡排序
+// 冒泡排序
 void bubble_sort(vector<int>& array){
     int size=array.size();
     for (int i=size-1; i>=0; i--) {
