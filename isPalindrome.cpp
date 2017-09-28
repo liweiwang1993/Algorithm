@@ -1,4 +1,4 @@
-//是否为回文数
+//是否为回文数 
 bool isPalindrome(int x) {
     if(x<0||(x!=0&&x%10==0))
         return false;
